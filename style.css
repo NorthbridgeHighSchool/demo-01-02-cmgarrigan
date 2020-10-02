@@ -5,6 +5,12 @@ h1 {
   border: 10px inset rgb(214, 13, 13);
   font-style: oblique
 }
+h1{
+  color: rgb(243, 75, 75)
+}
 p{
   font-variant: small-caps
+}
+p{
+  color: rgb(56, 53, 241)
 }
